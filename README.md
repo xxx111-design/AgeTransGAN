@@ -34,7 +34,7 @@ deactivate
 ## Use of Face++ APIs
 The steps of using the Face++ APIs for estimating the age of a face image are as follows:
 
-1. Open [./faceplusplus_evaluation-master/age.sh](./age.sh) and [./faceplusplus_evaluation-master/face_verification.sh](./face_verification.sh), and enter the key.
+1. Open [./faceplusplus_evaluation-master/age.sh](./faceplusplus_evaluation-master/age.sh) and [./faceplusplus_evaluation-master/face_verification.sh](./faceplusplus_evaluation-master/face_verification.sh), and enter the key.
 ```
 -F "api_key=[Yours]" \ -F "api_secret=[Yours]" \
 ```
