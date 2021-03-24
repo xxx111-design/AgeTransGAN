@@ -31,7 +31,7 @@ deactivate
 
 4. You can also use a camera to take a face as input for a live synthesis. Please run the code with `./demo/run_10group.sh` or `./demo/run_4group.sh`.
 
-## Face++ Estimation
+## Use of Face++ APIs
 The steps of using the Face++ APIs for estimating the age of a face image are as follows:
 
 1. Open ./age.sh and ./face_verification.sh, and enter the key.
