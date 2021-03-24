@@ -42,7 +42,7 @@ The steps of using the Face++ APIs for estimating the age of a face image are as
 2. Run the above code and obtain the csv files:
 ```
 ./age.sh [Folders for specific age groups] [Corresponding csv files]
-./face_ verification.sh [Folders for specific age groups] [Folders for original images] 
+./face_ verification.sh [Folders for specific age groups] [Folders for original images] [Corresponding csv files]
 ```
 
 ## Checkpoints Download
