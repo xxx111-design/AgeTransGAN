@@ -55,12 +55,8 @@ Expected training times for the default configuration using Nvidia Titan RTX GPU
 
 256*256 pixels:
 
-Morph: 1 day 12 hours
-
-CACD: 4 days
+Morph: 1 day 12 hours, CACD: 4 days
 
 1024*1024 pixels:
 
-FFHQ-Aging 4Groups: 24 days
-
-FFHQ-Aging 10Groups: 31 days
+FFHQ-Aging 4Groups: 24 days, FFHQ-Aging 10Groups: 31 days
